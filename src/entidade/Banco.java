@@ -6,7 +6,7 @@ public class Banco {
 	private String Id;
 	private double saldo;
 	private String conta;
-	String agencia;
+	private String agencia;
 	
 	public Banco() {
 		
